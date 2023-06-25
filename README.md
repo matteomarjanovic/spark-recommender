@@ -18,5 +18,5 @@ For first, activate your elasticsearch instance. After that, execute all cell of
 If you want to save statistics about CPU and RAM usage you can set ``save_stats = True`` in the second notebook cell.
 To plot these statistics you can run the only cell contained in *plots.ipynb* notebook.
 
-If you want to know more about this project, check out [this](https://docs.google.com/viewer?url=https://github.com/matteomarjanovic/spark-recommender/blob/master/big_data_report.pdf) pdf document, my report for the project.
+If you want to know more about this project, check out [this](https://github.com/matteomarjanovic/spark-recommender/blob/master/big_data_report.pdf) pdf document, my report for the project.
 For this project I took inspiration from [this medium article](https://towardsdatascience.com/building-a-recommendation-system-with-spark-ml-and-elasticsearch-abbd0fb59454).
